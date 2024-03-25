@@ -1,0 +1,1 @@
+FROM itsafeaturemythic/mythic_python_base:latest
